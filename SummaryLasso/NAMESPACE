@@ -1,0 +1,7 @@
+useDynLib(SummaryLasso)
+importFrom("stats", "median", "qnorm", "quantile")
+import(gtools)
+export(gsfPEN,
+  gsPEN,transPEN,PlinkLD_transform_addR,transConditionalU)
+
+
