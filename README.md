@@ -189,7 +189,7 @@ This folder computes:
 - AUC (and standard error) across p-value thresholds  
 - Performance plots and summary tables  
 
-Used for both simulation and real-data experiments and corresponds to evaluation figures in the thesis.
+Used for real-data experiments and corresponds to evaluation figures in the thesis.
 
 ---
 
