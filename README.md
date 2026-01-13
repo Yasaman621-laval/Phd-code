@@ -37,7 +37,7 @@ This structure is mirrored exactly in the repository.
 ---
 
 ## Repository structure
-
+```
 Phd-code/
 │
 ├── Generate data/ # Simulation data generation & GWAS standardization
@@ -53,7 +53,7 @@ Phd-code/
 ├── SummaryAUC/ # Predictive performance evaluation
 ├── SummaryLasso/ # Penalized regression R package
 └── README.md
-
+```
 
 ---
 
