@@ -1,6 +1,5 @@
 # Phd-code  
 **Cross-population & multi-trait Polygenic Risk Score pipelines**  
-*(MAPSPEN / SSPEN vs PRS-CSx)*
 
 ---
 
