@@ -1,0 +1,6 @@
+Here is a clearer and more correct version:
+
+We can use the true π values only in the simulation study. Because the true values are known in simulations, we can compare each method and each penalty-parameter setting against the true π values using RMSE. This helps us identify which method and which parameter values perform best across different scenarios.
+
+
+Using the true π values in simulations allows us to evaluate different penalty-parameter settings and identify the method with the lowest RMSE across scenarios. Once we determine the most stable and best-performing parameter values from the simulation results, we can update the code to use those fixed values. Then, we can apply the revised code to real data without using true π values, since the true parameters are unknown in real applications.
