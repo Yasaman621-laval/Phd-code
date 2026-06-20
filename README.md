@@ -505,5 +505,6 @@ For questions about this repository, please contact:
 
 ```text
 Yasaman Tahernezhad
+Email: [Yasaman.Tahernezhad.1@gmail.com](mailto:Yasaman.Tahernezhad.1@gmail.com)
 GitHub: Yasaman621-laval
 ```
