@@ -498,13 +498,10 @@ Depending on the workflow, the scripts generate:
 If you use this code, please cite the related PhD thesis and the relevant external methods used in the workflow, including PRS-CSx, PLINK, MiXeR, and SummaryLasso where applicable.
 
 ---
-
 ## Contact
 
 For questions about this repository, please contact:
 
-```text
 Yasaman Tahernezhad
 Email: [Yasaman.Tahernezhad.1@gmail.com](mailto:Yasaman.Tahernezhad.1@gmail.com)
-GitHub: Yasaman621-laval
-```
+GitHub: [Yasaman621-laval](https://github.com/Yasaman621-laval)
